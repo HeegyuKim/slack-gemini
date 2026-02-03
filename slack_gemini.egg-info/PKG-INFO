@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: slack-gemini
+Version: 0.1.0
+Requires-Dist: slack-bolt
+Requires-Dist: slack-sdk
+Requires-Dist: python-dotenv
+Requires-Dist: requests

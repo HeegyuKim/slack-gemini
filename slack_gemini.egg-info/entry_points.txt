@@ -1,0 +1,2 @@
+[console_scripts]
+slack-gemini = slack_gemini.cli:main

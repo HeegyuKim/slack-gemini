@@ -1,0 +1,10 @@
+setup.py
+slack_gemini/__init__.py
+slack_gemini/bot.py
+slack_gemini/cli.py
+slack_gemini.egg-info/PKG-INFO
+slack_gemini.egg-info/SOURCES.txt
+slack_gemini.egg-info/dependency_links.txt
+slack_gemini.egg-info/entry_points.txt
+slack_gemini.egg-info/requires.txt
+slack_gemini.egg-info/top_level.txt
