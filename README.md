@@ -37,6 +37,11 @@ slack-gemini run
 slack-gemini send "안녕하세요!"
 ```
 
+**Gemini 실행 후 결과를 슬랙으로 전송**
+```bash
+slack-gemini prompt "현재 삼성전자 주가는?"
+```
+
 ## Slack App 설정 안내
 
 이 봇이 정상적으로 작동하려면 Slack App에 다음과 같은 권한(Scopes)이 반드시 필요합니다:
